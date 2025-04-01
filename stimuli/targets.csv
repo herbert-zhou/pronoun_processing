@@ -1,0 +1,81 @@
+frame_id,condition,sent,comp_q,comp_a,type
+1,TeleEach,"Just before showtime, each performer stepped on stage. He adjusted the costume behind the curtain.",Did the events described happen before the show?,1,target
+1,NonTeleEvery,"Just before showtime, every performer stepped on stage and he adjusted the costume behind the curtain.",Did the events described happen before the show?,1,target
+1,NonTeleEach,"Just before showtime, each performer stepped on stage and he adjusted the costume behind the curtain.",Did the events described happen before the show?,1,target
+1,NonTeleThe,"Just before showtime, the performer stepped on stage. He adjusted the costume behind the curtain.",Did the events described happen before the show?,1,target
+2,TeleEach,"At early sunrise, each fisherman sailed to sea. He cast a net into the water.",None,None,target
+2,NonTeleEvery,"At early sunrise, every fisherman sailed to sea and he cast a net into the water.",None,None,target
+2,NonTeleEach,"At early sunrise, each fisherman sailed to sea and he cast a net into the water.",None,None,target
+2,NonTeleThe,"At early sunrise, the fisherman sailed to sea. He cast a net into the water.",None,None,target
+3,TeleEach,"On Monday morning, each student arrived in class. He opened the textbook at the desk.",Did the events described take place in a dormitory?,0,target
+3,NonTeleEvery,"On Monday morning, every student arrived in class and he opened the textbook at the desk.",Did the events described take place in a dormitory?,0,target
+3,NonTeleEach,"On Monday morning, each student arrived in class and he opened the textbook at the desk.",Did the events described take place in a dormitory?,0,target
+3,NonTeleThe,"On Monday morning, the student arrived in class. He opened the textbook at the desk.",Did the events described take place in a dormitory?,0,target
+4,TeleEach,"On Sunday morning, each visitor entered the museum. He took some photos of the exhibition.",None,None,target
+4,NonTeleEvery,"On Sunday morning, every visitor entered the museum and he took some photos of the exhibition.",None,None,target
+4,NonTeleEach,"On Sunday morning, each visitor entered the museum and he took some photos of the exhibition.",None,None,target
+4,NonTeleThe,"On Sunday morning, the visitor entered the museum. He took some photos of the exhibition.",None,None,target
+5,TeleEach,"During early rehearsals, each musician checked the acoustics. He practiced the music for the concert.",Did the events described happen during the rehearsals?,1,target
+5,NonTeleEvery,"During early rehearsals, every musician checked the acoustics and he practiced the music for the concert.",Did the events described happen during the rehearsals?,1,target
+5,NonTeleEach,"During early rehearsals, each musician checked the acoustics and he practiced the music for the concert.",Did the events described happen during the rehearsals?,1,target
+5,NonTeleThe,"During early rehearsals, the musician checked the acoustics. He practiced the music for the concert.",Did the events described happen during the rehearsals?,1,target
+6,TeleEach,"In the evening, each guest entered the hall. He took a program from the entrance.",None,None,target
+6,NonTeleEvery,"In the evening, every guest entered the hall and he took a program from the entrance.",None,None,target
+6,NonTeleEach,"In the evening, each guest entered the hall and he took a program from the entrance.",None,None,target
+6,NonTeleThe,"In the evening, the guest entered the hall. He took a program from the entrance.",None,None,target
+7,TeleEach,"In the morning, each student entered the classroom. He greeted the teacher with a smile.","In the events described, is the teacher in the schoolyard?",0,target
+7,NonTeleEvery,"In the morning, every student entered the classroom and he greeted the teacher with a smile.","In the events described, is the teacher in the schoolyard?",0,target
+7,NonTeleEach,"In the morning, each student entered the classroom and he greeted the teacher with a smile.","In the events described, is the teacher in the schoolyard?",0,target
+7,NonTeleThe,"In the morning, the student entered the classroom. He greeted the teacher with a smile.","In the events described, is the teacher in the schoolyard?",0,target
+8,TeleEach,"Yesterday at noon, each officer entered the station. He grabbed a coffee from the kitchen.",None,None,target
+8,NonTeleEvery,"Yesterday at noon, every officer entered the station and he grabbed a coffee from the kitchen.",None,None,target
+8,NonTeleEach,"Yesterday at noon, each officer entered the station and he grabbed a coffee from the kitchen.",None,None,target
+8,NonTeleThe,"Yesterday at noon, the officer entered the station. He grabbed a coffee from the kitchen.",None,None,target
+9,TeleEach,"After lunch break, each employee joined the meeting. He received the agenda from the manager.","In the events described, did a secretary distribute the agenda?",0,target
+9,NonTeleEvery,"After lunch break, every employee joined the meeting and he received the agenda from the manager.","In the events described, did a secretary distribute the agenda?",0,target
+9,NonTeleEach,"After lunch break, each employee joined the meeting and he received the agenda from the manager.","In the events described, did a secretary distribute the agenda?",0,target
+9,NonTeleThe,"After lunch break, the employee joined the meeting. He received the agenda from the manager.","In the events described, did a secretary distribute the agenda?",0,target
+10,TeleEach,"After training hours, each player left the field. He took a shower in the building.",None,None,target
+10,NonTeleEvery,"After training hours, every player left the field and he took a shower in the building.",None,None,target
+10,NonTeleEach,"After training hours, each player left the field and he took a shower in the building.",None,None,target
+10,NonTeleThe,"After training hours, the player left the field. He took a shower in the building.",None,None,target
+11,TeleEach,"After the practice, each athlete organized the locker. He placed the helmet on the shelf.",Did the events described happen after practice?,1,target
+11,NonTeleEvery,"After the practice, every athlete organized the locker and he placed the helmet on the shelf.",Did the events described happen after practice?,1,target
+11,NonTeleEach,"After the practice, each athlete organized the locker and he placed the helmet on the shelf.",Did the events described happen after practice?,1,target
+11,NonTeleThe,"After the practice, the athlete organized the locker. He placed the helmet on the shelf.",Did the events described happen after practice?,1,target
+12,TeleEach,"Before the announcement, each reporter positioned the cameras. He adjusted the framing for the shot.",None,None,target
+12,NonTeleEvery,"Before the announcement, every reporter positioned the cameras and he adjusted the framing for the shot.",None,None,target
+12,NonTeleEach,"Before the announcement, each reporter positioned the cameras and he adjusted the framing for the shot.",None,None,target
+12,NonTeleThe,"Before the announcement, the reporter positioned the cameras. He adjusted the framing for the shot.",None,None,target
+13,TeleEach,"Before the trial, each lawyer reviewed the case. He arranged the papers on the desk.",Did the events described happen before the trial?,1,target
+13,NonTeleEvery,"Before the trial, every lawyer reviewed the case and he arranged the papers on the desk.",Did the events described happen before the trial?,1,target
+13,NonTeleEach,"Before the trial, each lawyer reviewed the case and he arranged the papers on the desk.",Did the events described happen before the trial?,1,target
+13,NonTeleThe,"Before the trial, the lawyer reviewed the case. He arranged the papers on the desk.",Did the events described happen before the trial?,1,target
+14,TeleEach,"Before the parade, each drummer checked the drumsticks. He practiced quick beats on the snare.",None,None,target
+14,NonTeleEvery,"Before the parade, every drummer checked the drumsticks and he practiced quick beats on the snare.",None,None,target
+14,NonTeleEach,"Before the parade, each drummer checked the drumsticks and he practiced quick beats on the snare.",None,None,target
+14,NonTeleThe,"Before the parade, the drummer checked the drumsticks. He practiced quick beats on the snare.",None,None,target
+15,TeleEach,"After the exam, each student reviewed the answers. He discussed the questions with some classmates.",Did the events described happen before the exam?,0,target
+15,NonTeleEvery,"After the exam, every student reviewed the answers and he discussed the questions with some classmates.",Did the events described happen before the exam?,0,target
+15,NonTeleEach,"After the exam, each student reviewed the answers and he discussed the questions with some classmates.",Did the events described happen before the exam?,0,target
+15,NonTeleThe,"After the exam, the student reviewed the answers. He discussed the questions with some classmates.",Did the events described happen before the exam?,0,target
+16,TeleEach,"Ahead of showtime, each stylist checked the mirror. He fixed the makeup behind the curtain.",None,None,target
+16,NonTeleEvery,"Ahead of showtime, every stylist checked the mirror and he fixed the makeup behind the curtain.",None,None,target
+16,NonTeleEach,"Ahead of showtime, each stylist checked the mirror and he fixed the makeup behind the curtain.",None,None,target
+16,NonTeleThe,"Ahead of showtime, the stylist checked the mirror. He fixed the makeup behind the curtain.",None,None,target
+17,TeleEach,"Before the audition, each singer entered the studio. He collected a nametag at the reception.",Did the events described take place in a studio?,1,target
+17,NonTeleEvery,"Before the audition, every singer entered the studio and he collected a nametag at the reception.",Did the events described take place in a studio?,1,target
+17,NonTeleEach,"Before the audition, each singer entered the studio and he collected a nametag at the reception.",Did the events described take place in a studio?,1,target
+17,NonTeleThe,"Before the audition, the singer entered the studio. He collected a nametag at the reception.",Did the events described take place in a studio?,1,target
+18,TeleEach,"Before the dinner, each chef organized the ingredients. He marinated the meat in the fridge.",None,None,target
+18,NonTeleEvery,"Before the dinner, every chef organized the ingredients. He marinated the meat in the fridge.",None,None,target
+18,NonTeleEach,"Before the dinner, each chef organized the ingredients and he marinated the meat in the fridge.",None,None,target
+18,NonTeleThe,"Before the dinner, the chef organized the ingredients. He marinated the meat in the fridge.",None,None,target
+19,TeleEach,"In the morning, each artist mixed acrylic paint. He applied the paint to the canvas.","In the events described, was the paint applied to a wooden statue?",0,target
+19,NonTeleEvery,"In the morning, every artist mixed acrylic paint and he applied the paint to the canvas.","In the events described, was the paint applied to a wooden statue?",0,target
+19,NonTeleEach,"In the morning, each artist mixed acrylic paint and he applied the paint to the canvas.","In the events described, was the paint applied to a wooden statue?",0,target
+19,NonTeleThe,"In the morning, the artist mixed acrylic paint. He applied the paint to the canvas.","In the events described, was the paint applied to a wooden statue?",0,target
+20,TeleEach,"Around late afternoon, each gardener trimmed the hedges. He fertilized the soil with fresh compost.",None,None,target
+20,NonTeleEvery,"Around late afternoon, every gardener trimmed the hedges and he fertilized the soil with fresh compost.",None,None,target
+20,NonTeleEach,"Around late afternoon, each gardener trimmed the hedges and he fertilized the soil with fresh compost.",None,None,target
+20,NonTeleThe,"Around late afternoon, the gardener trimmed the hedges. He fertilized the soil with fresh compost.",None,None,target

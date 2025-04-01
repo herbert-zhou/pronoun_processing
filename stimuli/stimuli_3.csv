@@ -1,0 +1,41 @@
+frame_id,condition,sent,comp_q,comp_a,type,version_id
+8,NonTeleEach,"Yesterday at noon, each officer entered the station and he grabbed a coffee from the kitchen.",None,None,target,3
+20,TeleEach,"Around late afternoon, each gardener trimmed the hedges. He fertilized the soil with fresh compost.",None,None,target,3
+14,filler13,"After midnight yesterday, some neighbors heard strange noises and called the police to their house.",Did the noises occur after midnight?,1,filler,3
+19,TeleEach,"In the morning, each artist mixed acrylic paint. He applied the paint to the canvas.","In the events described, was the paint applied to a wooden statue?",0,target,3
+4,filler3,"After the project, some architects discussed the design and made small adjustments to the blueprint.","In the events described, were the adjustments made to the budget plan?",0,filler,3
+16,filler15,"After the storm, several volunteers organized relief efforts and delivered food to those in need.",None,None,filler,3
+19,filler18,"Over the holidays, most neighbors shared homemade treats and decorated the streets in the neighborhood.",None,None,filler,3
+4,NonTeleEvery,"On Sunday morning, every visitor entered the museum and he took some photos of the exhibition.",None,None,target,3
+17,TeleEach,"Before the audition, each singer entered the studio. He collected a nametag at the reception.",Did the events described take place in a studio?,1,target,3
+5,filler4,"After the match, several players thanked their coach and gave interviews in the waiting room.",Did the events described take place on the football field?,0,filler,3
+2,NonTeleEvery,"At early sunrise, every fisherman sailed to sea and he cast a net into the water.",None,None,target,3
+13,NonTeleThe,"Before the trial, the lawyer reviewed the case. He arranged the papers on the desk.",Did the events described happen before the trial?,1,target,3
+7,NonTeleEach,"In the morning, each student entered the classroom and he greeted the teacher with a smile.","In the events described, is the teacher in the schoolyard?",0,target,3
+1,filler0,"After the meeting, many attendees left the office and grabbed a lunchbox in the lounge.","In the events described, was the lunchbox in the conference room?",0,filler,3
+10,NonTeleEach,"After training hours, each player left the field and he took a shower in the building.",None,None,target,3
+3,filler2,"After the ceremony, some graduates received a gift and took photos together near the stage.",None,None,filler,3
+16,TeleEach,"Ahead of showtime, each stylist checked the mirror. He fixed the makeup behind the curtain.",None,None,target,3
+1,NonTeleEvery,"Just before showtime, every performer stepped on stage and he adjusted the costume behind the curtain.",Did the events described happen before the show?,1,target,3
+12,NonTeleThe,"Before the announcement, the reporter positioned the cameras. He adjusted the framing for the shot.",None,None,target,3
+18,TeleEach,"Before the dinner, each chef organized the ingredients. He marinated the meat in the fridge.",None,None,target,3
+11,filler10,"Before the lecture, many students reviewed their notes and refreshed key concepts from last class.",None,None,filler,3
+3,NonTeleEvery,"On Monday morning, every student arrived in class and he opened the textbook at the desk.",Did the events described take place in a dormitory?,0,target,3
+13,filler12,"Over spring break, some students relaxed at home and played video games all day long.",None,None,filler,3
+20,filler19,"Around late spring, most travelers booked summer vacations and planned a trip to beach destinations.",Were most summer vacations planned to hiking destinations?,0,filler,3
+18,filler17,"Before the deadline, both writers edited the manuscript and formatted the document on their tablets.",None,None,filler,3
+17,filler16,"After classes ended, both janitors cleaned the floors and restocked paper towels in the bathrooms.",Did the paper towels in the bathrooms get restocked?,1,filler,3
+6,filler5,"During the workshop, several speakers shared their ideas and answered questions directly from the attendees.","In the events described, did workshop attendees ask questions?",1,filler,3
+8,filler7,"After the surgery, both surgeons reviewed the procedure and talked about the next treatment steps.",None,None,filler,3
+6,NonTeleEach,"In the evening, each guest entered the hall and he took a program from the entrance.",None,None,target,3
+15,NonTeleThe,"After the exam, the student reviewed the answers. He discussed the questions with some classmates.",Did the events described happen before the exam?,0,target,3
+5,NonTeleEvery,"During early rehearsals, every musician checked the acoustics and he practiced the music for the concert.",Did the events described happen during the rehearsals?,1,target,3
+2,filler1,"Before the party, many guests changed their clothes and put on makeup in the bathroom.",Did the events described happen before the party?,1,filler,3
+9,NonTeleEach,"After lunch break, each employee joined the meeting and he received the agenda from the manager.","In the events described, did a secretary distribute the agenda?",0,target,3
+10,filler9,"In early fall, most teachers introduced new topics and prepared the class for the semester.",None,None,filler,3
+11,NonTeleThe,"After the practice, the athlete organized the locker. He placed the helmet on the shelf.",Did the events described happen after practice?,1,target,3
+9,filler8,"Before the musical, most visitors bought a booklet and found a seat in the auditorium.","In the events described, is the booklet being sold for a fee?",1,filler,3
+15,filler14,"During the festival, several musicians performed on stage and entertained the crowd with catchy songs.",None,None,filler,3
+12,filler11,"On Friday morning, many shoppers visited the mall and bought groceries for the long weekend.",None,None,filler,3
+14,NonTeleThe,"Before the parade, the drummer checked the drumsticks. He practiced quick beats on the snare.",None,None,target,3
+7,filler6,"During the tour, both guides explained the exhibit and handed out brochures to the visitors.","In the events described, did the visitors receive a souvenir?",0,filler,3

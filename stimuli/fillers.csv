@@ -1,0 +1,21 @@
+frame_id,condition,sent,comp_q,comp_a,type
+1,filler0,"After the meeting, many attendees left the office and grabbed a lunchbox in the lounge.","In the events described, was the lunchbox in the conference room?",0,filler
+2,filler1,"Before the party, many guests changed their clothes and put on makeup in the bathroom.",Did the events described happen before the party?,1,filler
+3,filler2,"After the ceremony, some graduates received a gift and took photos together near the stage.",None,None,filler
+4,filler3,"After the project, some architects discussed the design and made small adjustments to the blueprint.","In the events described, were the adjustments made to the budget plan?",0,filler
+5,filler4,"After the match, several players thanked their coach and gave interviews in the waiting room.",Did the events described take place on the football field?,0,filler
+6,filler5,"During the workshop, several speakers shared their ideas and answered questions directly from the attendees.","In the events described, did workshop attendees ask questions?",1,filler
+7,filler6,"During the tour, both guides explained the exhibit and handed out brochures to the visitors.","In the events described, did the visitors receive a souvenir?",0,filler
+8,filler7,"After the surgery, both surgeons reviewed the procedure and talked about the next treatment steps.",None,None,filler
+9,filler8,"Before the musical, most visitors bought a booklet and found a seat in the auditorium.","In the events described, is the booklet being sold for a fee?",1,filler
+10,filler9,"In early fall, most teachers introduced new topics and prepared the class for the semester.",None,None,filler
+11,filler10,"Before the lecture, many students reviewed their notes and refreshed key concepts from last class.",None,None,filler
+12,filler11,"On Friday morning, many shoppers visited the mall and bought groceries for the long weekend.",None,None,filler
+13,filler12,"Over spring break, some students relaxed at home and played video games all day long.",None,None,filler
+14,filler13,"After midnight yesterday, some neighbors heard strange noises and called the police to their house.",Did the noises occur after midnight?,1,filler
+15,filler14,"During the festival, several musicians performed on stage and entertained the crowd with catchy songs.",None,None,filler
+16,filler15,"After the storm, several volunteers organized relief efforts and delivered food to those in need.",None,None,filler
+17,filler16,"After classes ended, both janitors cleaned the floors and restocked paper towels in the bathrooms.",Did the paper towels in the bathrooms get restocked?,1,filler
+18,filler17,"Before the deadline, both writers edited the manuscript and formatted the document on their tablets.",None,None,filler
+19,filler18,"Over the holidays, most neighbors shared homemade treats and decorated the streets in the neighborhood.",None,None,filler
+20,filler19,"Around late spring, most travelers booked summer vacations and planned a trip to beach destinations.",Were most summer vacations planned to hiking destinations?,0,filler
